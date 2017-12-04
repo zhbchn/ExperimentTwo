@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExperimentOne</string>
+    <string name="name">姓名</string>
+    <string name="num">学号</string>
+    <string name="grade">年级</string>
+    <string name="sclass">班级</string>
+    <string name="apptitle">班级信息显示</string>
+    <string name="Sex">性别</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+</resources>
